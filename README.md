@@ -5,10 +5,12 @@
 - GitHub: [Logain Hamdan](https://github.com/LogainHamdan)
 
 ### 🛠️ Technologies & Tools:
-- Flutter
-- Dart
-- Localization
-- Postman
+- **Languages:** Dart, Java, Python
+- **Flutter:** Flutter Framework, Dart, State Management, UI/UX, APIs, Firebase, Responsive Design
+- **Databases:** SQL, JDBC, ODBC, Database Design, Optimization
+- **Data Structures & Algorithms:** Program Optimization, Algorithm Analysis
+- **Tools:** Android Studio, Visual Studio, Postman, NetBeans, DBeaver, Matlab, IntelliJ IDEA
+- **Maintenance:** Computer Maintenance
 
 ### 🚀 Flutter Projects:
 
