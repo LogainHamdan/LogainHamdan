@@ -4,13 +4,11 @@
 - LinkedIn: [Logain Hamdan](https://www.linkedin.com/in/logain-hamdan/)
 - GitHub: [Logain Hamdan](https://github.com/LogainHamdan)
 
-### 🛠️ Technologies & Tools:
-- **Languages:** Dart, Java, Python
-- **Flutter:** Flutter Framework, Dart, State Management, UI/UX, APIs, Firebase, Responsive Design
-- **Databases:** SQL, JDBC, ODBC, Database Design, Optimization
-- **Data Structures & Algorithms:** Program Optimization, Algorithm Analysis
-- **Tools:** Android Studio, Visual Studio, Postman, NetBeans, DBeaver, Matlab, IntelliJ IDEA
-- **Maintenance:** Computer Maintenance
+### 🛠️ Technologies, Skills & Tools:
+- **Flutter Mobile Development:** Flutter Framework, Dart, State Management, UI/UX, APIs, Firebase, problem solving, Responsive Design, Stripe, Android Studio, Visual Studio, Agile Methodologies, Application Life Cycle.
+- **Software Tools:** Android Studio, Visual Studio, Postman, NetBeans, DBeaver, Matlab, IntelliJ IDEA
+- **Programming Languages & OOP:** Dart, Java, Python
+- **Databases:** SQL, JDBC, ODBC, Database Design, Database Optimization
 
 ### 🚀 Flutter Projects:
 
